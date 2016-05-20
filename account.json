@@ -6,5 +6,9 @@
     "twitter.com": {
         "username": "fivebillionmph",
         "password": "***REMOVED***",
-    }
+    },
+    "tumblr.com": {
+        "username": "fivebillionmph",
+        "password": "SECRET",
+    },
 ]
