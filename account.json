@@ -1,5 +1,10 @@
-{
-  username: "fivebillionmph",
-  password: "***REMOVED***",
-  accountfor: "facebook.com",
-}
+[
+    "facebook.com": {
+        "username": "fivebillionmph",
+        "password": "***REMOVED***",
+    },
+    "twitter.com": {
+        "username": "fivebillionmph",
+        "password": "V6ORPMLaDsOF6",
+    }
+]
